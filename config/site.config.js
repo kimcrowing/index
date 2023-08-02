@@ -15,7 +15,7 @@ module.exports = {
 
   // Prefix for KV Storage
   kvPrefix: process.env.KV_PREFIX || '',
-Movie/AV
+
   // The name of your website. Present alongside your icon.
   title: "Kim",
 
